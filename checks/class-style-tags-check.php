@@ -257,5 +257,4 @@ class Style_Tags_Check implements themecheck
         );
     }
 }
-
 $themechecks[] = new Style_Tags_Check();
